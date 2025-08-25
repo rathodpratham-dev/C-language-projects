@@ -8,4 +8,7 @@ int main (){
 
     printf("100000 number printing completed.\n");
     return 0;
+
 }
+
+// Project by rathodpratham-dev on GitHub
